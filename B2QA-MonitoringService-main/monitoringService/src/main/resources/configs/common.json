@@ -1,0 +1,8 @@
+{
+"mongoUrl":"mongodb+srv://root:root123@cluster0.i8xr9.mongodb.net/CDP?authSource=admin&replicaSet=atlas-l96qqb-shard-0&w=majority&readPreference=primary&retryWrites=true&ssl=true",
+"SalesforceObjects":"accounts,contacts,leads,opportunity",
+"SalesforceFlows":"bulk sync,incremental sync",
+"Growth_Stage_rapid":"0.05",
+"Growth_Stage_steady":"0.03",
+"Growth_Stage_slow":"0.01"
+}
